@@ -7,7 +7,7 @@ I'm Gloria Chen, a passionate software engineer 👩‍💻 programming in PHP a
 
 I'm working as a Software Engineer at [Les Mills Asia Pacific](https://www.linkedin.com/company/les-mills-asia-pacific/about/).
 
-My motto is --- Happy hacking & coding! 💡 
+My motto is ---- Happy hacking & coding! 💡 
 
 I love building things every day.
 
