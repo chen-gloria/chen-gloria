@@ -1,7 +1,7 @@
 # Gloriaaaa
 
 
-### Hi there :raising_hand:
+### Hi :wave:
 
 I'm Gloria Chen, a passionate software engineer 👩‍💻 programming in PHP and JavaScript
 
