@@ -9,9 +9,9 @@ I'm working as a Software Engineer at <a href="https://www.lesmills.com.au/" tar
 
 My motto: Happy hacking & coding! 💡 
 
-I love building things every day.
+I like building things every day.
 
-My goal is to build a great piece of software. 
+My goal is to build great pieces of software. 
 
 Apart from PHP, JavaScript, I'm also interested in C++, Docker, AI, aerospace and medical engineering.
 
