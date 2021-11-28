@@ -13,7 +13,7 @@ I like building things every day.
 
 My goal is to build great pieces of software. 
 
-Apart from PHP, JavaScript, I'm also interested in C++, Docker, AI, aerospace and medical engineering.
+Apart from PHP, JavaScript. I play with Raspberrypi. I'm interested in C++, Docker, AI, aerospace and medical engineering.
 
 Happy to have a chat!
 
