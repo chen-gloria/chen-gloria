@@ -13,7 +13,7 @@ Love building things every day.
 
 My goal is to build great pieces of software.
 
-I have experience in Laravel, Symfony, Vue. I like playing with Raspberrypi. Plus, I'm interested in C++, Docker, AI, aerospace and medical engineering.
+I code in Laravel, Symfony, Vue. I like playing with Raspberrypi. Plus, I'm interested in C++, Docker, AI, aerospace and medical engineering.
 
 Happy to have a chat.
 
