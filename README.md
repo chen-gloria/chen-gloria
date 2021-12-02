@@ -22,6 +22,6 @@ Happy to have a chat.
 :notebook_with_decorative_cover: Blog: <https://gloriachen.org/>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=chen-gloria&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff" alt="chen-gloria" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chen-gloria&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img src="https://github-readme-stats.vercel.app/api?username=chen-gloria&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff" alt="chen-gloria" />
 </div>
