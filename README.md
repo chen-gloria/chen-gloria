@@ -1,4 +1,4 @@
-# Gloriaaaa
+# Gloria Chen
 
 
 ### Hi :wave:
@@ -20,6 +20,9 @@ I code in Laravel, Symfony, Vue.
 :notebook_with_decorative_cover: Blog: <https://gloriachen.org/>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chen-gloria&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-<img src="https://github-readme-stats.vercel.app/api?username=chen-gloria&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff" alt="chen-gloria" />
+
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-gloria&layout=compact&bg_color=151515&title_color=fff&text_color=9f9f9f)
+  
+![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api/?username=chen-gloria&count_private=true&show_icons=true&title_color=fff&icon_color=0613f9&text_color=9f9f9f&bg_color=151515)
+
 </div>
