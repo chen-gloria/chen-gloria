@@ -7,15 +7,13 @@ I'm Gloria Chen, a passionate software engineer 👩‍💻 programming in PHP a
 
 I'm working as a Software Engineer at <a href="https://www.lesmills.com.au/" target="_blank">Les Mills Asia Pacific</a>. 
 
-Motto: Happy hacking & coding! 💡 
+Happy hacking & coding! 💡 
 
-Love building things every day.
+I like building things every day.
 
-My goal is to build great pieces of software.
+Goal: build great softwares.
 
-I code in Laravel, Symfony, Vue. I like playing with Raspberrypi. I'm interested in C++, Docker, AI, aerospace and medical engineering.
-
-Happy to have a chat.
+I code in Laravel, Symfony, Vue.
 
 :email: Email: chen.gloria@outlook.com
 
