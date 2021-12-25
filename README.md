@@ -1,19 +1,17 @@
 # Gloria Chen
 
 
-### Hi :wave:
+### Happy hacking & coding! 💡
 
-I'm Gloria Chen, a passionate software engineer 👩‍💻 programming in PHP and JavaScript
+I'm Gloria Chen, a software engineer 👩‍💻 programming in PHP and JavaScript
 
-I'm working as a Software Engineer at <a href="https://www.lesmills.com.au/" target="_blank">Les Mills Asia Pacific</a>. 
-
-Happy hacking & coding! 💡 
+I'm working at <a href="https://www.lesmills.com.au/" target="_blank">Les Mills Asia Pacific</a>. 
 
 I like building things every day.
 
-Goal: build great softwares.
+My goal is to build excellent softwares.
 
-I code in Laravel, Symfony, Vue.
+I have experiences in Laravel, Symfony, Vue.
 
 :email: Email: chen.gloria@outlook.com
 
