@@ -15,7 +15,7 @@ I have experiences in Laravel, Symfony, Vue.
 
 :email: Email: chen.gloria@outlook.com
 
-:notebook_with_decorative_cover: Personal website: <https://gloriachen.org/>
+:notebook_with_decorative_cover: A very simple personal website: <https://gloriachen.org/>
 
 <div>
 
