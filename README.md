@@ -3,7 +3,7 @@
 
 ### Happy hacking & coding! 💡
 
-I'm Gloria Chen, a software engineer 👩‍💻 programming in PHP and JavaScript
+I'm Gloria Chen, a software engineer 👩‍💻 currently coding in PHP and JavaScript
 
 I'm working at <a href="https://www.lesmills.com.au/" target="_blank">Les Mills Asia Pacific</a>. 
 
