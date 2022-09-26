@@ -9,7 +9,7 @@ I'm working at <a href="https://www.lesmills.com.au/" target="_blank">Les Mills 
 
 I like building things every day.
 
-My goal is to build excellent softwares.
+My goal is to build excellent pieces of software.
 
 I have experiences in Laravel, Symfony, Vue.
 
