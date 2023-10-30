@@ -15,8 +15,6 @@ I have experiences in Laravel, Symfony, Vue.
 
 :email: Email: chen.gloria@outlook.com
 
-:notebook_with_decorative_cover: A very simple personal website: <https://gloriachen.org/>
-
 <div>
 
 ![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-gloria&layout=compact&bg_color=151515&title_color=fff&text_color=9f9f9f)
