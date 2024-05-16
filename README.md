@@ -3,15 +3,13 @@
 
 ### Happy hacking & coding! 💡
 
-I'm Gloria Chen, a software engineer 👩‍💻 currently coding in PHP and JavaScript
+I'm Gloria Chen, a software engineer 👩‍💻 I use PHP and Python to build website and mobile applications.
 
-I'm working at <a href="https://www.lesmills.com.au/" target="_blank">Les Mills Asia Pacific</a>. 
+I also build the UI myself at the moment.
 
-I like building things every day.
+Keen to turn business ideas into code and then into functional running projects.
 
-My goal is to build excellent pieces of software.
-
-I have experiences in Laravel, Symfony, Vue.
+I like business and programming.
 
 :email: Email: chen.gloria@outlook.com
 
