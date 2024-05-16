@@ -1,7 +1,7 @@
 # Gloria Chen
 
 
-### Happy hacking & coding! 💡
+### Happy coding & startup! 💡
 
 I'm Gloria Chen, a software engineer 👩‍💻 I use PHP and Python to build website and mobile applications.
 
