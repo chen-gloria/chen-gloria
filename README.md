@@ -17,6 +17,6 @@ I like business and programming.
 
 ![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-gloria&layout=compact&bg_color=151515&title_color=fff&text_color=9f9f9f)
   
-![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api/?username=chen-gloria&count_private=true&show_icons=true&title_color=fff&icon_color=0613f9&text_color=9f9f9f&bg_color=151515)
+![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api/?username=chen-gloria&count_private=true&show_icons=true&theme=jolly)
 
 </div>
