@@ -21,7 +21,7 @@ Currently, I'm working on an **AI video editing assistant app** and delving deep
 
 ## 📈 GitHub Stats
 
-<div>
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-gloria&theme=ambient_gradient&exclude_repo=your-old-repo-names)
 
