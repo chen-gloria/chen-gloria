@@ -21,13 +21,13 @@ Currently, I'm working on an **AI video editing assistant app** and delving deep
 
 ## 📈 GitHub Stats
 
-<center>
+
+<div align="center">
   
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-gloria&theme=ambient_gradient&exclude_repo=your-old-repo-names)
 
 ![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api/?username=chen-gloria&count_private=true&show_icons=true&theme=ambient_gradient)
-
-</center>
+</div>
 
 ---
 
